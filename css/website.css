@@ -1,0 +1,33 @@
+
+.navbar {
+    font-weight: 500;
+    font-family: 'Helvetica';
+}
+.nav-link {
+    color:black;
+    font-size: 1.15em;
+}
+.navbar-brand {
+    color: black;
+    font-size: 1.15em;
+
+}
+.padding {
+    padding-right: 20px;
+}
+.nav-link:hover {
+    color:brown;
+}
+.navbar-brand:hover {
+    color:brown; 
+}
+.hand {
+    position: absolute;
+    top: 200px;
+    left: 120px;
+}
+.treeman {
+    position: absolute;
+    top:-300px;
+    left:300px;
+}
