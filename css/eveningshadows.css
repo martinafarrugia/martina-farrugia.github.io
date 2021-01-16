@@ -1,0 +1,35 @@
+.navbar {
+    font-weight: 500;
+    font-family: 'Helvetica';
+  }
+
+  .nav-link {
+    color: black;
+    font-size: 1.15em;
+  }
+
+  .navbar-brand {
+    color: black;
+    font-size: 1.15em;
+  }
+
+  .nav-link:hover {
+    color: brown;
+  }
+
+  .navbar-brand:hover {
+    color: brown;
+  }
+
+  .first {
+    font-size: 1.3em;
+    padding-left: 11px;
+    color: black;
+
+  }
+
+  .carousel-item {
+    width: 1050px;
+    height: 1050px;
+    position: center;
+  }

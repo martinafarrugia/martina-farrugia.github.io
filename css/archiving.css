@@ -1,0 +1,72 @@
+.navbar {
+    font-weight: 500;
+    font-family: 'Helvetica';
+}
+.nav-link {
+    color:black;
+    font-size: 1.15em;
+}
+.navbar-brand {
+    color: black;
+    font-size: 1.15em;
+}
+.nav-link:hover {
+    color:brown;
+}
+.navbar-brand:hover {
+    color:brown; 
+}
+.first {
+    font-size: 1.3em;
+    padding-left:11px;
+    color: black;
+}
+.album1{
+  padding-right: 15px;
+}
+.album2{
+  position: absolute;
+  padding-left:15px;
+}
+.album3 {
+  position: absolute;
+  top: 350px;
+  left: 120px;;
+}
+.diary1 {
+  position: absolute;
+  top: -400px;
+  left: 250px;
+  
+}
+.album6 {
+  position: absolute;
+  top: 500px;
+  left: 150px;
+  padding-bottom: 15px;
+}
+.diary4 { 
+  position: absolute;
+  top: -350px;
+  left: 15px;
+}
+.diary2 {
+  position: absolute;
+  top: -367px;
+  left: 200px;
+}
+.album4 {
+  position: absolute;
+  top: -100px;
+  left: 280px;
+}
+.diary3 {
+  position: absolute;
+  top: -30px;
+  left: -150px;
+}
+.album5 {
+  position: absolute;
+  top: 50px;
+  left: -1090px;
+}
