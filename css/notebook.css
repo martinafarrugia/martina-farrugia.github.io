@@ -1,0 +1,72 @@
+.navbar {
+    font-weight: 500;
+    font-family: 'Helvetica';
+}
+.nav-link {
+    color:black;
+    font-size: 1.15em;
+}
+.navbar-brand {
+    color: black;
+    font-size: 1.15em;
+}
+.nav-link:hover {
+    color:brown;
+}
+.navbar-brand:hover {
+    color:brown; 
+}
+.first {
+    font-size: 1.3em;
+    padding-left:11px;
+    color: black;
+
+}
+.notebook1 {
+  position: absolute;
+  top: 50px;
+  left: 920px;
+}
+.notebook2 {
+  position: absolute;
+  top: 50px;
+  left: 15px; 
+}
+.notebook3 {
+  position: absolute;
+  top: 130px;
+  left: 600px; 
+}
+.notebook5 {
+  position: absolute;
+  top: 370px;
+  left: 200px; 
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .carousel-item {
+      width: 100%;
+      height: 500px;
+      position: center;
+      align-content: center;
+    }
+
+    img {
+      height: 500px;
+      width: auto;
+      margin: auto;
+    }
+  }
+
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {}
+
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {}
+
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {}
+
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {}
