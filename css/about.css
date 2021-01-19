@@ -37,6 +37,11 @@
     padding-left: 12px;
 
   }
+  .link{
+    font-size: 0.95em;
+    padding-left: 12px;
+    color: black ;
+  }
 
   /* Extra small devices (phones, 600px and down) */
   @media only screen and (max-width: 600px) {
